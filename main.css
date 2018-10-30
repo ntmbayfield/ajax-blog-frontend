@@ -1,0 +1,18 @@
+.blogs {
+  display: grid;
+  grid-template-columns: 34% 66%;
+  grid-template-rows: 100%;
+  grid-template-areas: "titles text";
+}
+
+.blog-titles {
+  grid-area: titles;
+}
+
+.newblog {
+  grid-area: text;
+}
+
+.list-group-item {
+  width: 300px;
+}
