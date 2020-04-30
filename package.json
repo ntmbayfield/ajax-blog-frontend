@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ntmbayfield/ajax-blog-frontend#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "live-server": "^1.2.0",
     "run-all": "^1.0.1",
     "surge": "^0.20.1",
